@@ -96,4 +96,4 @@ streamlit run app.py
 
 
 
-
+MIT License © [Ramakrushna](https://x.com/techwith_ram) ❤️
